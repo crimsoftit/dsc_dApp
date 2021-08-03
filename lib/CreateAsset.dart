@@ -62,7 +62,7 @@ class CreateAsset extends StatelessWidget {
             ),
             Padding(
               padding:
-                  const EdgeInsets.symmetric(horizontal: 20.0, vertical: 20.0),
+                  const EdgeInsets.symmetric(horizontal: 20.0, vertical: 15.0),
               child: GestureDetector(
                 onTap: () {
                   //Navigator.push(
@@ -73,13 +73,13 @@ class CreateAsset extends StatelessWidget {
                 },
                 child: new Container(
                     alignment: Alignment.center,
-                    height: 50.0,
+                    height: 40.0,
                     decoration: new BoxDecoration(
                         color: Color(0xFFD17E18),
                         borderRadius: new BorderRadius.circular(9.0)),
                     child: new Text("Scan Barcode",
                         style: new TextStyle(
-                            fontSize: 20.0, color: Colors.white))),
+                            fontSize: 16.0, color: Colors.white))),
               ),
             ),
             new SizedBox(
@@ -91,7 +91,7 @@ class CreateAsset extends StatelessWidget {
                 Expanded(
                   child: Padding(
                     padding: const EdgeInsets.symmetric(
-                        horizontal: 20.0, vertical: 10.0),
+                        horizontal: 20.0, vertical: 5.0),
                     child: GestureDetector(
                       onTap: () {
                         //Navigator.push(
@@ -132,13 +132,13 @@ class CreateAsset extends StatelessWidget {
                       },
                       child: new Container(
                           alignment: Alignment.center,
-                          height: 50.0,
+                          height: 40.0,
                           decoration: new BoxDecoration(
                               color: Color(0xFF18D191),
                               borderRadius: new BorderRadius.circular(9.0)),
                           child: new Text("Save",
                               style: new TextStyle(
-                                  fontSize: 20.0, color: Colors.white))),
+                                  fontSize: 16.0, color: Colors.white))),
                     ),
                   ),
                 ),
