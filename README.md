@@ -1,5 +1,5 @@
 # Duara
-&nbsp;&nbsp;&nbsp; ## Prototype for a Blockchain-based Supply Chain Management dApp (mobile)
+&nbsp;&nbsp;&nbsp; **## Prototype for a Blockchain-based Supply Chain Management dApp (mobile)**
 
 An Blockchain-based decentralized  that demonstrates a Supply Chain flow from a Designer of a drug along to the end user Buyer(consumer). Regulator whos responsable for approve the drug. Manufacturer can act as a owner of a drug design or bulid partner contract with a designer. A Distributor should act as middleman between manufacturer to retailer to last actor in the system consumer.
 
