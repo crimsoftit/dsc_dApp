@@ -1,6 +1,8 @@
 # Duara - a Blockchain-based Supply Chain Management dApp (mobile app)
 
-A Blockchain-based dApp that illustrates the Supply Chain flow of drugs from its manufacturer(s) all the way to the consumer. Regulator whos responsable for approve the drug. Manufacturer can act as a owner of a drug design or bulid partner contract with a designer. A Distributor should act as middleman between manufacturer to retailer to last actor in the system consumer.
+A Blockchain-based dApp that illustrates the Supply Chain flow of drugs from its manufacturer(s) all the way to the consumer in a transparent, secure, and affordable way, on the Ethereum blockchain, using smart contracts.
+
+Fundamentally, the system would offer its users visibility, transparency, affordability, and confidence at every step.
 
 ## Getting Started
 
