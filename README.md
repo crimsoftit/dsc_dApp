@@ -15,15 +15,9 @@ The described dApp is implemented with Flutter/Dart and Solidity for the smart c
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. Below is a screenshot the aplication showing full life cycle of one product managed by smart contracts: from creating a new product, viewing a list of the products registered on the blockchain, and verifying the authenticity of the product by scanning the barcode label on the product.
 
-A few resources to get you started if this is your first Flutter project:
+You can view that by following the status and movement of a product from one table to another after each step:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_todo_dapp
 # dsc_dApp
