@@ -11,11 +11,7 @@ Fundamentally, the system would offer its users visibility, transparency, afford
   3. The created product is validated by a regulatory bosy, such as the government.
   4. Before making a purchase, the buyer can validate the authenticity of the drug by scanning the barcode label on the product.
 
-
-Seller informs the customer who wants to purchase the item with a price and address to make the payment.
-The sustomer is making a payment, transferring the funds to required address.
-Payment is automatically detected by listening to the events on a smart contract.
-Once the payment is completed and detected, now the seler can update the status of product, to notify the warehouse to ship the product to the customer.
+The described dApp is implemented with Flutter/Dart and Solidity for the smart contracts. To interact with the Ethereum blockchain test network, Truffle was used with Truffle Box boilerplate and Ganache.
 
 ## Getting Started
 
