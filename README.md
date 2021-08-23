@@ -20,4 +20,13 @@ This project is a starting point for a Flutter application. Below is a screensho
 You can view that by following the status and movement of a product from one table to another after each step:
 
 
+
+
+
+## Project structure:
+  * `truffle-config.js` file - contains solidity compiler version and the port number for local development blockchain.
+  * `contracts` directory - contains smart contracts for Dapp: `AssetManager.sol`
+  * `migrations` directory - contains migration files for smart contracts.
+client directory - contains ReactJS app.
+
 # dsc_dApp
