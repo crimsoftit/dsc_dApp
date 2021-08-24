@@ -43,5 +43,14 @@ This project is a starting point for a Flutter application. Below is a screensho
     &nbsp;&nbsp;&nbsp; `Node v10.16.3` <br>
     &nbsp;&nbsp;&nbsp; `Web3.js v1.5.1` <br>
 
+#### Setting up and running the application :
+
+  1. Install truffle: `npm install truffle -g`
+  2. install ganache-cli: `npm install ganache-cli`
+  3. Install flutter packages: `flutter pub get`
+  4. Start truffle developmnet blockchain: `truffle development`
+  5. Compile and migrate smart contracts to the local blockchain (from truffle console): `truffle migrate`
+  6. Connect device
+  7. Start flutter app: `flutter run`
 
 # dsc_dApp
