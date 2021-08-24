@@ -23,7 +23,7 @@ This project is a starting point for a Flutter application. Below is a screensho
 
 
 
-## Project structure:
+### *Project structure:*
   * `truffle-config.js` file - contains solidity compiler version and the port number for local development blockchain.
   * `contracts` directory - contains smart contracts for Dapp: `AssetManager.sol`
   * `migrations` directory - contains migration files for smart contracts.
@@ -35,5 +35,13 @@ This project is a starting point for a Flutter application. Below is a screensho
   *  `.packages` - holds the path to every package and library used in the project. Changes should not be made to this file by programmers.
   *  `pubspecam.lock` - This file contains the version of each dependency and packages used in the flutter application.
   *  `pubspec.yaml` - This is the file we use to add metadata and configuration specific to our application. With this file’s help, we can configure dependencies such as image assets, fonts, and app versions.
+
+### *Running the code?*
+`$ truffle version` <br>
+    &nbsp;&nbsp;&nbsp; `Truffle v5.4.6 (core: 5.4.6)`<br>
+    &nbsp;&nbsp;&nbsp; `Solidity v0.5.16 (solc-js)`
+    &nbsp;&nbsp;&nbsp; `Node v10.16.3` <br>
+    &nbsp;&nbsp;&nbsp; `Web3.js v1.5.1` <br>
+
 
 # dsc_dApp
