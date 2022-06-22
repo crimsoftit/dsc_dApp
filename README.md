@@ -1,4 +1,4 @@
-# Duara - a Blockchain-based Supply Chain Management dApp (mobile app)
+# Duara - a Blockchain-based Supply Chain Management dApp
 
 A Blockchain-based dApp that attempts to alleviate the counterfeiting of drugs by illustrating the Supply Chain flow of the products from its manufacturer(s) all the way to the end-consumer in a transparent, secure, and affordable way, on the Ethereum blockchain, using smart contracts.
 
